@@ -1,4 +1,4 @@
-.qi.include`event
+.qi.import`event
 
 \d .cron
 
