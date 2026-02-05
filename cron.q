@@ -9,4 +9,4 @@ run:{run1[;x]each exec func from jobs where nextRun<x;}
 
 \d .
 
-.event.addHandler[`.z.ts;`.cron.run]
+.event.addhandler[`.z.ts;`.cron.run]
